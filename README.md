@@ -1,4 +1,5 @@
 # 안녕하세요 5팀입니다
+![](https://github.com/woowa-techcamp-2024/hello-kariskan-hellomatia-tidavid1-Lechros/assets/85854384/4fb02e43-aa27-463d-8c0c-61b14f36390c)
 
 ## 👀 Team Memebers
 
