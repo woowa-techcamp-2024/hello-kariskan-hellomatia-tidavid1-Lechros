@@ -42,3 +42,7 @@
 - 지표님: SQL 쿼리 최적화에 대해 알아가고 싶습니다!
 
 ## 🍯 꿀팁모음
+- [kariskan의 꿀팁](https://github.com/woowa-techcamp-2024/hello-kariskan-hellomatia-tidavid1-Lechros/blob/main/kariskan_tip.md)
+- [hellomatia의 꿀팁](https://github.com/woowa-techcamp-2024/hello-kariskan-hellomatia-tidavid1-Lechros/blob/main/hellomatia_tip.md)
+- [tidavid1의 꿀팁](https://github.com/woowa-techcamp-2024/hello-kariskan-hellomatia-tidavid1-Lechros/blob/main/tidavid1.md)
+- [Lechros의 꿀팁](https://github.com/woowa-techcamp-2024/hello-kariskan-hellomatia-tidavid1-Lechros/blob/main/Lechros.md)
